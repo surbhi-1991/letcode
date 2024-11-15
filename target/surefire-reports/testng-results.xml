@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-15T11:52:36 IST" name="Suite" finished-at="2024-11-15T11:52:50 IST" duration-ms="13854">
+    <groups>
+    </groups>
+    <test started-at="2024-11-15T11:52:36 IST" name="Test" finished-at="2024-11-15T11:52:50 IST" duration-ms="13854">
+      <class name="Test.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTest@67d48005]" started-at="2024-11-15T11:52:36 IST" name="setup" finished-at="2024-11-15T11:52:48 IST" duration-ms="12497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyThePageUrl()[pri:0, instance:Test.LoginTest@67d48005]" started-at="2024-11-15T11:52:48 IST" name="VerifyThePageUrl" finished-at="2024-11-15T11:52:49 IST" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyThePageUrl -->
+        <test-method signature="VerifyFields()[pri:1, instance:Test.LoginTest@67d48005]" started-at="2024-11-15T11:52:49 IST" name="VerifyFields" finished-at="2024-11-15T11:52:49 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.LoginTest@67d48005]" started-at="2024-11-15T11:52:49 IST" name="tearDown" finished-at="2024-11-15T11:52:50 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
